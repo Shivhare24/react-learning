@@ -110,11 +110,11 @@ export const ShareButton = () => {
           <meta
             id='image'
             property='og:image'
-            content='https://d109mr28ux1v2k.cloudfront.net/offers/promo-a87f11aa-dc22-4600-baea-d699888e9055/e_top_div.jpg'
+            content='src/media/sample_image.png'
           />
           <meta
             property='twitter:image'
-            content ='https://d109mr28ux1v2k.cloudfront.net/offers/promo-a87f11aa-dc22-4600-baea-d699888e9055/e_top_div.jpg'
+            content ='src/media/sample_image.png'
             />
         </MetaTags>
 
