@@ -113,14 +113,6 @@ export const ShareButton = () => {
             content='https://d109mr28ux1v2k.cloudfront.net/offers/promo-a87f11aa-dc22-4600-baea-d699888e9055/e_top_div.jpg'
           />
           <meta
-            property='og:image:secure_url'
-            content='https://d109mr28ux1v2k.cloudfront.net/offers/promo-a87f11aa-dc22-4600-baea-d699888e9055/e_top_div.jpg'
-          />
-          <meta
-            property='og:image:url'
-            content='https://d109mr28ux1v2k.cloudfront.net/offers/promo-a87f11aa-dc22-4600-baea-d699888e9055/e_top_div.jpg'
-          />
-          <meta
             property='twitter:image'
             content ='https://d109mr28ux1v2k.cloudfront.net/offers/promo-a87f11aa-dc22-4600-baea-d699888e9055/e_top_div.jpg'
             />
