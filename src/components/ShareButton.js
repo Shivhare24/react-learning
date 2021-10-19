@@ -127,14 +127,14 @@ export const ShareButton = () => {
         </MetaTags>
 
         <FacebookShareButton
-          url='http://127.0.0.1:3000'
+          url='https://react-redux-learning.herokuapp.com/'
           quote='Use Promo SBWAY20HOL & Purchase a $25 gift card, get a free 6'
           hashtag='#promo #giftcards'
         >
           <FacebookIcon size={32} round={false} borderRadius={23} iconFillColor={'white'}/>
         </FacebookShareButton>
         <TwitterShareButton
-          url='http://127.0.0.1:3000'
+          url='https://react-redux-learning.herokuapp.com/'
           via='subway'
           title='Use Promo SBWAY20HOL & Purchase a $25 gift card, get a free 6'
           hashtags={['Blackhawk']}
@@ -142,7 +142,7 @@ export const ShareButton = () => {
           <TwitterIcon size={32} round={true} />
         </TwitterShareButton>
         <PinterestShareButton
-          url='https://subway.qa.cashstar.com'
+          url='https://react-redux-learning.herokuapp.com/'
           media='https://images.news18.com/ibnlive/uploads/2021/07/1627377451_nature-1200x800.jpg?impolicy=website&width=510&height=356'
           description='test description'
         >
