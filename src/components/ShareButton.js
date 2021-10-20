@@ -106,17 +106,6 @@ import MetaTags from 'react-meta-tags';
 export const ShareButton = () => {
     return (
         <div className='socialMediaButton'>
-        <MetaTags>
-          <meta
-            property='og:image'
-            content='https://images.news18.com/ibnlive/uploads/2021/07/1627377451_nature-1200x800.jpg?impolicy=website&width=510&height=356'
-          />
-          <meta
-            property='twitter:image'
-            content ='https://images.news18.com/ibnlive/uploads/2021/07/1627377451_nature-1200x800.jpg?impolicy=website&width=510&height=356'
-            />
-        </MetaTags>
-
         <FacebookShareButton
           url='https://react-redux-learning.herokuapp.com/'
           quote='Use Promo SBWAY20HOL & Purchase a $25 gift card, get a free 6'
