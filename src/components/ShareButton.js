@@ -11,7 +11,7 @@ import {
     EmailIcon
   } from 'react-share';
 // import { InlineShareButtons } from 'sharethis-reactjs';
-import MetaTags from 'react-meta-tags';
+// import MetaTags from 'react-meta-tags';
 
 // export const ShareButton = () =>{
 //     let url = 'https://fastapi-giftcardexperience.herokuapp.com/';
