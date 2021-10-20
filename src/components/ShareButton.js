@@ -108,13 +108,12 @@ export const ShareButton = () => {
         <div className='socialMediaButton'>
         <MetaTags>
           <meta
-            id='image'
             property='og:image'
-            content='src/media/sample_image.png'
+            content='https://images.news18.com/ibnlive/uploads/2021/07/1627377451_nature-1200x800.jpg?impolicy=website&width=510&height=356'
           />
           <meta
             property='twitter:image'
-            content ='src/media/sample_image.png'
+            content ='https://images.news18.com/ibnlive/uploads/2021/07/1627377451_nature-1200x800.jpg?impolicy=website&width=510&height=356'
             />
         </MetaTags>
 
@@ -129,7 +128,7 @@ export const ShareButton = () => {
           url='https://react-redux-learning.herokuapp.com/'
           via='subway'
           title='Use Promo SBWAY20HOL & Purchase a $25 gift card, get a free 6'
-          hashtags={['Blackhawk']}
+          hashtags={['Blackhawk', 'giftcards']}
         >
           <TwitterIcon size={32} round={true} />
         </TwitterShareButton>
